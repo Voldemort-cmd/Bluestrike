@@ -24,7 +24,7 @@ pip3 install -r requirements.txt
 ```
 2. Install necessary packages
 ```
-paru -Sy --noconfirm --needed bluez bluez-utils
+sudo apt install bluez
 ```
 
 ## Environment Variables
